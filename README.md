@@ -27,3 +27,7 @@ https://www.edrawmind.com/online/map.html?sharecode=62e2168fcdaac3a76631168
 Async Pipe
 
 https://www.edrawmind.com/online/map.html?sharecode=62e21654e5c018a11241357
+
+TypeScript:
+
+https://www.edrawmind.com/online/map.html?sharecode=63175513b344b3a15395987
