@@ -56,5 +56,31 @@ RxJS
 
 https://www.edrawmind.com/online/map.html?sharecode=62502b0ead5a14a62204094
 
+Styling in Angular:
+
+https://www.edrawmind.com/online/map.html?sharecode=6318214146dc91a08969453
+
+Analyzing Angular Bundles & Why Analyze Bundles:
+
+https://www.edrawmind.com/online/map.html?sharecode=6308ab957281c4a43871296
+https://www.edrawmind.com/online/map.html?sharecode=63147c38bfa1b1a69020555
+
+Angular Router:
+
+https://www.edrawmind.com/online/map.html?sharecode=63022d43b04c61a00243978
+
+Error Handling in Angular:
+
+https://www.edrawmind.com/online/map.html?sharecode=625e8f5fbc77b6a10346328
+
+NgRx:
+
+https://www.edrawmind.com/online/map.html?sharecode=627b46599ef763a37245543
+
+Testing Angular Apps:
+
+https://www.edrawmind.com/online/map.html?sharecode=6245617b766f60a85744816
+
+
 
 
