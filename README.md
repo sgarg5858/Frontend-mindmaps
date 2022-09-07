@@ -12,10 +12,6 @@ ng-template(Template Ref)
   
 https://www.edrawmind.com/online/map.html?sharecode=622eeafb2ee214a25223961
 
-Rxjs
-
-https://www.edrawmind.com/online/map.html?sharecode=62502b0ead5a14a62204094
-
 Dom Abstraction in Angular
 
 https://www.edrawmind.com/online/map.html?sharecode=62e3bad1739f86a46798816
@@ -47,4 +43,18 @@ https://www.edrawmind.com/online/map.html?sharecode=62e3bad1739f86a46798816
 Querying Dom in Angular:
 
 https://www.edrawmind.com/online/map.html?sharecode=62e2168fcdaac3a76631168
+
+Dependency Injection In Angular:
+
+https://www.edrawmind.com/online/map.html?sharecode=62581193343051a11371010
+
+Change Detection, NgZone in Angular:
+
+https://www.edrawmind.com/online/map.html?sharecode=626a4ba531fca7a40529356
+
+RxJS
+
+https://www.edrawmind.com/online/map.html?sharecode=62502b0ead5a14a62204094
+
+
 
