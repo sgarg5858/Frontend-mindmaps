@@ -201,7 +201,7 @@ JavaScript:
 
 9. this :  https://app.excalidraw.com/l/lH4oLrYGXv/7Gfp2d8IiQB
 
-10. Promise:  https://app.excalidraw.com/l/lH4oLrYGXv/3g8up0MLRey
+10. Promise:  https://www.edrawmind.com/online/map.html?sharecode=62d0f54915a665a90117362 , https://app.excalidraw.com/l/lH4oLrYGXv/3g8up0MLRey
 
 11. Object & Map:  https://app.excalidraw.com/l/lH4oLrYGXv/yktQzMa0N7
 
