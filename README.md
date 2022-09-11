@@ -179,9 +179,47 @@ https://app.excalidraw.com/l/lH4oLrYGXv/A8hViB85OCy
 
 7. Optimizing Third Party Resources:  https://app.excalidraw.com/l/lH4oLrYGXv/26QwEHpVwZq
 
+**********************************************************************************************************************
+
+JavaScript:
+
+1. Prototypal Inheritance:  https://app.excalidraw.com/l/lH4oLrYGXv/45yLxbx6N87
+
+2. Classes:   https://app.excalidraw.com/l/lH4oLrYGXv/3H8RuWkmcHk
+
+3. Object Property Descriptors:  https://app.excalidraw.com/l/lH4oLrYGXv/3L39YwQKasM
+
+4. Data Types:  https://app.excalidraw.com/l/lH4oLrYGXv/4UaUGqbo7uj
+
+5. Type Coercion:  https://app.excalidraw.com/l/lH4oLrYGXv/32ckuFD9Hvp
+
+6. Lexical ENV,EC,Hoisting:  https://app.excalidraw.com/l/lH4oLrYGXv/ZYrZ9chqUf
+
+7. Programming Paradigms:  https://app.excalidraw.com/l/lH4oLrYGXv/4DY351NEb12
+
+8. Functions in JS:  https://app.excalidraw.com/l/lH4oLrYGXv/8R4nB4SvX87
+
+9. this :  https://app.excalidraw.com/l/lH4oLrYGXv/7Gfp2d8IiQB
+
+10. Promise:  https://app.excalidraw.com/l/lH4oLrYGXv/3g8up0MLRey
+
+11. Object & Map:  https://app.excalidraw.com/l/lH4oLrYGXv/yktQzMa0N7
 
 
+**********************************************************************************************************************
 
+
+CSS
+
+1. CSS Parsing, Box Model,BLOCK,INLINE BLOCK, POSITION:   https://app.excalidraw.com/l/lH4oLrYGXv/2dGrluRnLwU
+
+2. min-max content, flexbox, css-grid:  https://app.excalidraw.com/l/lH4oLrYGXv/8dZBJlgAIpn
+
+3. Selectors, Psuedo Classes, Elements, Overflow: https://app.excalidraw.com/l/lH4oLrYGXv/6iJWhrM1Hsn
+
+4. SCSS:  https://app.excalidraw.com/l/lH4oLrYGXv/6qLOdNowx6
+
+5. min-max-fit content :  https://app.excalidraw.com/l/lH4oLrYGXv/pnWvI0vpUE
 
 
 
