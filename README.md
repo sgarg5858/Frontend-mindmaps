@@ -183,6 +183,12 @@ https://app.excalidraw.com/l/lH4oLrYGXv/A8hViB85OCy
 
 JavaScript:
 
+https://www.edrawmind.com/online/map.html?sharecode=6283ce55948670a19721355
+
+https://www.edrawmind.com/online/map.html?sharecode=62d639103a1557a15496938
+
+https://www.edrawmind.com/online/map.html?sharecode=627213cd634119a13063775
+
 1. Prototypal Inheritance:  https://app.excalidraw.com/l/lH4oLrYGXv/45yLxbx6N87
 
 2. Classes:   https://app.excalidraw.com/l/lH4oLrYGXv/3H8RuWkmcHk
