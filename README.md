@@ -1,5 +1,6 @@
 # Frontend-Mindmaps
 
+
 Angular Forms:
 
 https://www.edrawmind.com/online/map.html?sharecode=622c86d5b268a2a27301323
@@ -87,6 +88,10 @@ Styling in Angular:
 
 https://www.edrawmind.com/online/map.html?sharecode=6318214146dc91a08969453
 
+https://app.excalidraw.com/l/lH4oLrYGXv/3jgWZDqcQnk
+
+https://app.excalidraw.com/l/lH4oLrYGXv/4qWjrSY69uf
+
 ***********************************************************************************
 
 Analyzing Angular Bundles & Why Analyze Bundles:
@@ -123,3 +128,61 @@ https://www.edrawmind.com/online/map.html?sharecode=6245617b766f60a85744816
 DOM Manipulation:
 
 https://www.edrawmind.com/online/map.html?sharecode=631c4572081307a83877268
+
+***********************************************************************************
+
+Images in Web:
+
+https://app.excalidraw.com/l/lH4oLrYGXv/6Aayq9n9hmN
+
+***********************************************************************************
+
+Web Performance:
+
+1. Critical Rendering Path:
+
+https://app.excalidraw.com/l/lH4oLrYGXv/AUw4wJvBsLI
+
+2. Rendering Performance
+
+https://app.excalidraw.com/l/lH4oLrYGXv/18A322zRDGK
+
+3. preload,prefetch,preconnect
+
+https://app.excalidraw.com/l/lH4oLrYGXv/5sigHCbUZpT
+
+4. Optimize CSS
+
+https://app.excalidraw.com/l/lH4oLrYGXv/AugmJrvr8s8
+
+5. Optimize WebFonts
+
+https://app.excalidraw.com/l/lH4oLrYGXv/wwnP3Hdhon
+
+6. Loading Performance
+
+https://app.excalidraw.com/l/lH4oLrYGXv/A8hViB85OCy
+
+7. Web Vitals:
+
+1.  LCP :  https://app.excalidraw.com/l/lH4oLrYGXv/8kH5MuBZssR
+
+2.  FID:  https://app.excalidraw.com/l/lH4oLrYGXv/9vydjPDTaNc
+
+3.  CLS:  https://app.excalidraw.com/l/lH4oLrYGXv/Asu2mc52FmI
+
+4. TOOLS to Measure:  https://app.excalidraw.com/l/lH4oLrYGXv/55mQ85C5LAs
+
+5. PageSpeedInsights:  https://app.excalidraw.com/l/lH4oLrYGXv/98OhtRv03Nb
+
+6. Efficient Cache Policy:  https://app.excalidraw.com/l/lH4oLrYGXv/2QTaNT33QhM
+
+7. Optimizing Third Party Resources:  https://app.excalidraw.com/l/lH4oLrYGXv/26QwEHpVwZq
+
+
+
+
+
+
+
+
