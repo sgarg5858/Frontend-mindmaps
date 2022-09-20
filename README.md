@@ -228,5 +228,9 @@ CSS
 5. min-max-fit content :  https://app.excalidraw.com/l/lH4oLrYGXv/pnWvI0vpUE
 
 
+**********************************************************************************************************************
 
+Web Security:
+
+1. https://0xdbe.github.io/AngularSecurity-DisableInlineCriticalCSS/
 
