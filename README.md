@@ -232,5 +232,9 @@ CSS
 
 Web Security:
 
-1. https://0xdbe.github.io/AngularSecurity-DisableInlineCriticalCSS/
+1.  Problem with inlining critical CSS from Content Security Policy View Point
+
+https://0xdbe.github.io/AngularSecurity-DisableInlineCriticalCSS/
+
+https://content-security-policy.com/
 
