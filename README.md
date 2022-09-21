@@ -241,3 +241,6 @@ https://content-security-policy.com/
 Work Around:
 https://github.com/angular/angular-cli/issues/20864#issuecomment-845406758
 
+2. CSS Injection : https://www.invicti.com/blog/web-security/private-data-stolen-exploiting-css-injection/
+
+3. Content Security Policy
