@@ -238,3 +238,6 @@ https://0xdbe.github.io/AngularSecurity-DisableInlineCriticalCSS/
 
 https://content-security-policy.com/
 
+Work Around:
+https://github.com/angular/angular-cli/issues/20864#issuecomment-845406758
+
