@@ -249,5 +249,10 @@ https://web.dev/csp/.
 
 https://content-security-policy.com/
 
+**********************************************************************************************************************
+
+SCSS:
+
+How to access SCSS Variables in Components :https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7
 
 
