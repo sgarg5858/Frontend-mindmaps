@@ -251,8 +251,14 @@ https://content-security-policy.com/
 
 **********************************************************************************************************************
 
-SCSS:
+SCSS in Angular:
+
+Theming using Angular Material:  https://app.excalidraw.com/l/lH4oLrYGXv/3jgWZDqcQnk
 
 How to access SCSS Variables in Components :https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7
+
+Dark Mode Using Angular Material And Css Variables and :root psuedo selector
+
+https://medium.com/@lisa.berteau.smith/dont-be-left-in-the-dark-how-to-design-a-dark-mode-with-angular-material-theme-7046920af8fb
 
 
