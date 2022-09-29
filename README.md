@@ -131,6 +131,15 @@ https://www.edrawmind.com/online/map.html?sharecode=631c4572081307a83877268
 
 ***********************************************************************************
 
+Lazy Loading Dynamic Components and SPAM and Standalone Components!
+
+https://github.com/sgarg5858/lazy-loading/blob/main/README.md
+
+https://www.youtube.com/watch?v=jaP1SX33uYQ&list=PLIG0QvRvxgMMnRiSi1fUxlA73nEMgGp9O&index=4&t=9s
+
+
+***********************************************************************************
+
 Images in Web:
 
 https://app.excalidraw.com/l/lH4oLrYGXv/6Aayq9n9hmN
