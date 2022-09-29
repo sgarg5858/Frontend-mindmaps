@@ -139,6 +139,10 @@ https://www.youtube.com/watch?v=jaP1SX33uYQ&list=PLIG0QvRvxgMMnRiSi1fUxlA73nEMgG
 
 SCAM: https://www.youtube.com/watch?v=KMkX1B3sGlU
 
+Why SCAM ?
+
+https://angular-training-guide.rangle.io/modules/module-scam-pattern
+
 
 ***********************************************************************************
 
