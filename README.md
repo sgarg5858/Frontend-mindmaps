@@ -141,7 +141,7 @@ https://www.youtube.com/watch?v=jaP1SX33uYQ&list=PLIG0QvRvxgMMnRiSi1fUxlA73nEMgG
 
 SCAM & Standalone Components:
 
-MindMap: https://www.edrawmind.com/online/map.html?sharecode=63367fde0aa188a78489407
+MindMap: https://www.edrawmind.com/online/map.html?sharecode=6337da9a376797a20188185
 
 ***********************************************************************************
 
