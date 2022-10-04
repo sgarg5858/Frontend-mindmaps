@@ -267,6 +267,12 @@ https://content-security-policy.com/
 
 SCSS in Angular:
 
+MindMap: https://www.edrawmind.com/online/map.html?sharecode=633c1620907c26a10509601
+
+Folder Structure: https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
+
+Architecture: https://sass-guidelin.es/#architecture
+
 Theming using Angular Material:  https://app.excalidraw.com/l/lH4oLrYGXv/3jgWZDqcQnk
 
 How to access SCSS Variables in Components :https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7
