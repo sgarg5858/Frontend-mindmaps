@@ -291,6 +291,8 @@ https://dev.to/nicm42/combining-sass-variables-with-css-custom-properties
 
 https://css-tricks.com/difference-between-types-of-css-variables/
 
+https://stackoverflow.com/questions/55131372/global-scss-variables-for-angular-components-without-importing-them-everytime
+
 
 
 
