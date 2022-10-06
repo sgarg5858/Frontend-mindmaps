@@ -267,17 +267,21 @@ https://content-security-policy.com/
 
 SCSS in Angular:
 
-MindMap: https://www.edrawmind.com/online/map.html?sharecode=633c1620907c26a10509601
+1. MindMap: https://www.edrawmind.com/online/map.html?sharecode=633c1620907c26a10509601
 
-Folder Structure: https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
+2. Folder Structure: https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
 
-Architecture: https://sass-guidelin.es/#architecture
+3. Architecture: https://sass-guidelin.es/#architecture
 
-Theming using Angular Material:  https://app.excalidraw.com/l/lH4oLrYGXv/3jgWZDqcQnk
+4. Theming using Angular Material:  https://app.excalidraw.com/l/lH4oLrYGXv/3jgWZDqcQnk
 
-How to access SCSS Variables in Components :https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7
+5. How to access SCSS Variables in Components :
 
-Dark Mode Using Angular Material And Css Variables and :root psuedo selector
+https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7
+
+https://stackoverflow.com/questions/55131372/global-scss-variables-for-angular-components-without-importing-them-everytime
+
+6. Dark Mode Using Angular Material And Css Variables and :root psuedo selector
 
 https://medium.com/@lisa.berteau.smith/dont-be-left-in-the-dark-how-to-design-a-dark-mode-with-angular-material-theme-7046920af8fb
 
