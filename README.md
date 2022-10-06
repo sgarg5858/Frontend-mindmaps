@@ -285,4 +285,12 @@ https://stackoverflow.com/questions/55131372/global-scss-variables-for-angular-c
 
 https://medium.com/@lisa.berteau.smith/dont-be-left-in-the-dark-how-to-design-a-dark-mode-with-angular-material-theme-7046920af8fb
 
+7. SCSS Variables vs CSS variables:
+
+https://dev.to/nicm42/combining-sass-variables-with-css-custom-properties
+
+https://css-tricks.com/difference-between-types-of-css-variables/
+
+
+
 
