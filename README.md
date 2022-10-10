@@ -293,6 +293,9 @@ https://css-tricks.com/difference-between-types-of-css-variables/
 
 https://stackoverflow.com/questions/55131372/global-scss-variables-for-angular-components-without-importing-them-everytime
 
+8. SCSS Module System @use and @forward over @import !
+
+https://css-tricks.com/introducing-sass-modules/
 
 
 
