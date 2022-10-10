@@ -297,5 +297,7 @@ https://stackoverflow.com/questions/55131372/global-scss-variables-for-angular-c
 
 https://css-tricks.com/introducing-sass-modules/
 
+https://stefaniefluin.medium.com/the-new-sass-module-system-out-with-import-in-with-use-e1bd8ba032d0
+
 
 
