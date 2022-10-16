@@ -123,6 +123,10 @@ Testing Angular Apps:
 
 https://www.edrawmind.com/online/map.html?sharecode=6245617b766f60a85744816
 
+Async Testing in Angular:
+
+https://medium.com/@menloinnovations/testing-asynchronous-operations-in-angular-components-45d1ebad3864
+
 ***********************************************************************************
 
 DOM Manipulation:
