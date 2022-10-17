@@ -119,13 +119,11 @@ https://www.edrawmind.com/online/map.html?sharecode=627b46599ef763a37245543
 
 ***********************************************************************************
 
-Testing Angular Apps:
+Testing Angular Apps: https://www.edrawmind.com/online/map.html?sharecode=6245617b766f60a85744816
 
-https://www.edrawmind.com/online/map.html?sharecode=6245617b766f60a85744816
+Async Testing in Angular: https://medium.com/@menloinnovations/testing-asynchronous-operations-in-angular-components-45d1ebad3864
 
-Async Testing in Angular:
-
-https://medium.com/@menloinnovations/testing-asynchronous-operations-in-angular-components-45d1ebad3864
+Rxjs Marble Testing: https://betterprogramming.pub/rxjs-testing-write-unit-tests-for-observables-603af959e251
 
 ***********************************************************************************
 
