@@ -1,5 +1,8 @@
 # Frontend-Mindmaps
 
+Modern Angular Development Practices:
+
+https://www.edrawmind.com/online/map.html?sharecode=635bc78b37ffd8a72959637
 
 Angular Forms:
 
